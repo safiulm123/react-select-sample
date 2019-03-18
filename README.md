@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#React Select Sample
+Extremely Basic template for Select as I needed it one of the projects that I am doing
 
 ## Available Scripts
 
