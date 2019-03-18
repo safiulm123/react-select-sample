@@ -1,4 +1,4 @@
-#React Select Sample
+# React Select Sample
 Extremely Basic template for Select as I needed it one of the projects that I am doing
 
 ## Available Scripts
